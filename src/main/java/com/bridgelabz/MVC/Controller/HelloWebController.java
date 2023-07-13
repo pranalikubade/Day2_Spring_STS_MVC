@@ -1,6 +1,6 @@
 package com.bridgelabz.MVC.Controller;
 
-import org.apache.catalina.User;
+import com.bridgelabz.MVC.Model.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
